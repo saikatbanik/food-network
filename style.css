@@ -1,0 +1,174 @@
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+}
+h1{
+    font-size: 70px;
+}
+.h2{
+    font-size: 50px;
+
+}
+.orange-color{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.pektis-code{
+    width: 50%;
+    padding-left: 2%;
+}
+.pektis-code img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orangered ,tomato);
+    padding: 15px 30px;
+    color: white;
+    font-weight: 700;   
+    border-radius: 5px;
+}
+.top-baner{
+    background-image: url(images/11.jpg);
+    background-repeat: no-repeat;
+}
+.big-dream{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    font-weight: 50px;
+}
+.experiences-area{
+    background-image: url(images/3.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experiences-item{
+    margin-right: 7.5%;
+    margin-left: 2.5%;
+    box-shadow: 10px 10px 30px rgb(212, 199, 199);
+    border-radius: 20px;
+    padding: 20px;
+}
+.food-red{
+    display: flex;
+}
+.food-red img{
+    width: 300px;  
+}
+.experiences-tools h2{
+    text-align: center;
+}
+.experiences-area p{
+    font-size: 20%;
+}
+.pragraph p{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.fotter-dev{
+        margin: 100px;
+        display: flex;
+        box-shadow: 10px 10px 50px rgb(212, 199, 199);
+        border-radius: 40px;
+    }
+.youtube{
+    width: 30%;
+}
+.youtube h1{
+    text-align: center;
+}
+.youtube p{
+    text-align: center;
+}
+.instagram{
+    width: 30%;
+}
+.instagram h1{
+    text-align: center;
+}
+.instagram p{
+    text-align: center;
+}
+.dribble{
+    width: 30%;
+}
+.dribble h1{
+    text-align: center;
+}
+.dribble p{
+    text-align: center;
+}
+
+.helthy-shodow{
+    background-color: rgb(87, 83, 83);
+}
+.helthy-shodow h2{
+    text-align: center;
+    color: white;
+    padding-left: 20px;
+}
+.helthy-shodow p{
+    text-align: center;
+    color: white;
+    padding-bottom: ;
+}
+.network-dav h{
+    color:white;
+    padding-right: 50%;
+    font-size: 50px;
+    padding-left: 50%;
+   
+}
+.network-dav p{
+    color: white;
+    padding-left: 50%;
+  
+   
+}
+.network-dav{
+    display: flex;
+}
+.net{
+    width: 20%;
+    margin-left: 15%;
+}
+.net h2{
+    text-align: center;
+}
+.net p{
+    text-align: center;
+    margin-right: 100%;
+}
+.tert{
+    width: 20%;
+}
+.tert h2{
+    text-align: center;
+}
+.tert p{
+    text-align: center;
+    margin-right: 100%;
+}
+.next{
+    width: 20%;
+}
+.next h2{
+    text-align: center;
+}
+.next p{
+    text-align: center;
+    margin-right: 100px;
+}
+footer p{
+    text-align: center;
+}
+
+
+
+
+
